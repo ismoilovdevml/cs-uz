@@ -3,10 +3,10 @@
  */
 import { useRouter } from 'next/router';
 
-const github = 'https://github.com/livepeer/docs';
+const github = 'https://github.com/ismoilovdevml/cs-uz';
 
 const TITLE_WITH_TRANSLATIONS = {
-  'en-US': 'Livepeer Documentation',
+  'en-US': 'CS-UZ',
 } as const;
 
 const EDIT_LINK_WITH_TRANSLATIONS = {
@@ -80,7 +80,7 @@ const Logo = ({ height, width }: { height: number; width: number }) => {
 const config: DocsThemeConfig = {
   docsRepositoryBase: `${github}/blob/main`,
   chat: {
-    link: 'https://discord.gg/livepeer',
+    link: 'https://discord.gg/tYEHE4Su',
   },
   banner: {
     key: 'docs-launch',
