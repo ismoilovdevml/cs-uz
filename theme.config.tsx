@@ -10,7 +10,7 @@ const TITLE_WITH_TRANSLATIONS = {
 } as const;
 
 const EDIT_LINK_WITH_TRANSLATIONS = {
-  'en-US': 'Edit this page on GitHub →',
+  'en-US': "GitHub-da o'zgartirish →",
 } as const;
 
 import { DocsThemeConfig, useConfig, useTheme } from 'nextra-theme-docs';
@@ -72,7 +72,7 @@ const Logo = ({ height, width }: { height: number; width: number }) => {
           fill={theme === 'light' ? '#131418' : 'white'}
         />
       </svg>
-      <span style={{ fontWeight: 'bold', fontSize: 18 }}>Livepeer Docs</span>
+      <span style={{ fontWeight: 'bold', fontSize: 18 }}>CS-UZ</span>
     </div>
   );
 };
@@ -86,7 +86,7 @@ const config: DocsThemeConfig = {
     key: 'docs-launch',
     text: (
       <div className="flex justify-center items-center gap-2">
-        Welcome to the new, unified Livepeer documentation! 👋
+        CS-UZ-ga Xush Kelibsiz 👋
       </div>
     ),
   },
