@@ -9,15 +9,11 @@
     "display": "hidden"
   },
   "guides": {
-    "title": "Guides",
-    "type": "page"
-  },
-  "reference": {
-    "title": "Reference",
+    "title": "Dokumentatsiya",
     "type": "page"
   },
   "tutorials": {
-    "title": "Tutorials",
+    "title": "Maqolalar",
     "type": "page"
   },
   "404": {
