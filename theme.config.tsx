@@ -105,7 +105,7 @@ const config: DocsThemeConfig = {
     light: 212,
   },
   footer: {
-    text: `MIT ${new Date().getFullYear()} © Livepeer Inc.`,
+    text: `CC0-1.0 Licensed | Hamma xuquqlar himoyalangan ${new Date().getFullYear()} ©Uzinfocom Open Source.`,
   },
   logo() {
     // eslint-disable-next-line react-hooks/rules-of-hooks
@@ -117,7 +117,7 @@ const config: DocsThemeConfig = {
   },
   useNextSeoProps() {
     return {
-      titleTemplate: `%s - Livepeer Documentation`,
+      titleTemplate: `%s - CS-UZ`,
     };
   },
   head() {
@@ -135,7 +135,7 @@ const config: DocsThemeConfig = {
       : frontMatter?.image || '/og.jpg';
     const folder = theme === 'light' ? '/light' : '/dark';
 
-    const composedTitle = `${title} – Livepeer Documentation`;
+    const composedTitle = `${title} – CS-UZ`;
 
     return (
       <>
