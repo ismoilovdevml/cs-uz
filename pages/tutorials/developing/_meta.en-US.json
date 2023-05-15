@@ -84,13 +84,13 @@
     }
   }, 
   "token-gate-videos-using-lit": {
-    "title": "Token Gate Videos Using Livepeer and Lit: A Step-by-Step Tutorial",
-    "longTitle": "How to Token Gate Videos Using Livepeer and Lit: A Step-by-Step Tutorial",
-    "description": "Learn how to token gate videos using Livepeer and Lit: A step-by-step tutorial",
-    "level": "beginner",
+    "title": "Kvant dasturlash",
+    "longTitle": "#1 Kvant dasturlashga sayohat",
+    "description": "Kvant dasturlashga sayohat",
+    "level": "Hamma uchun",
     "category": "developing",
     "author": {
-      "name": "Suhail Kakar",
+      "name": "Otabek Ismoilov",
       "image": "/images/tutorials/authors/suhail.jpeg"
     },
     "createdAt": "2023-05-01",
