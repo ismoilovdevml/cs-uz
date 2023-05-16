@@ -32,14 +32,14 @@ export default function Header() {
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [tutorial, setTutorial] = useState<Tutorial | null>(null);
 
-  const ogImage = `https://docs.livepeer.org/api/og?title=${tutorial?.title}&category=${tutorial?.category}`;
+  const ogImage = `https://cs-uz.vercel.ap/api/og?title=${tutorial?.title}&category=${tutorial?.category}`;
 
   const structuredData: JsonLd = {
     '@context': 'https://schema.org/',
     '@type': 'BlogPosting',
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://docs.livepeer.org/${router.asPath}`,
+      '@id': `https://cs-uz.vercel.ap/${router.asPath}`,
     },
     headline: `${tutorial?.longTitle}`,
     description: `${tutorial?.description}`,
