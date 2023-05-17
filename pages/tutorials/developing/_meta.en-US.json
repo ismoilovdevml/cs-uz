@@ -1,5 +1,5 @@
 {
-  "upload-playback-videos-on-arweave": {
+  "cpu-cache": {
     "title": "CPU cache nima va u qanday ishlaydi?",
     "longTitle": "CPU cache nima va u qanday ishlaydi?",
     "description": "CPU cache nima va u qanday ishlaydi?",
@@ -7,11 +7,11 @@
     "category": "Computer Science",
     "author": {
       "name": "Otabek Ismoilov",
-      "image": "/images/tutorials/authors/suhail.jpeg"
+      "image": "/images/tutorials/authors/ismoilovdev.jpeg"
     },
     "createdAt": "2023-03-07",
     "minutesRead": 6,
-    "href": "/tutorials/developing/upload-playback-videos-on-arweave",
+    "href": "/tutorials/article/cpu-cache",
     "theme": {
       "breadcrumb": false,
       "footer": true,
@@ -20,7 +20,7 @@
       "pagination": true
     }
   },
-  "upload-playback-videos-on-ipfs": {
+  "kernel": {
     "title": "Kernel nima va u qanday ishlaydi?",
     "longTitle": "Kernel nima va u qanday ishlaydi?",
     "description": "Kernel nima va u qanday ishlaydi?",
@@ -28,11 +28,11 @@
     "category": "Computer Science",
     "author": {
       "name": "Otabek Ismoilov",
-      "image": "/images/tutorials/authors/suhail.jpeg"
+      "image": "/images/tutorials/authors/ismoilovdev.jpeg"
     },
     "createdAt": "2023-03-07",
     "minutesRead": 8,
-    "href": "/tutorials/developing/upload-playback-videos-on-ipfs",
+    "href": "/tutorials/article/kernel",
     "theme": {
       "breadcrumb": false,
       "footer": true,
@@ -41,7 +41,7 @@
       "pagination": true
     }
   },
-  "upload-playback-videos-on-ipfs-4everland": {
+  "linux-file-system": {
     "title": "Linux fayl tizimi uchun keng qamrovli qo'llanma",
     "longTitle": "Linux fayl tizimi uchun keng qamrovli qo'llanma",
     "description": "Linux fayl tizimi uchun keng qamrovli qo'llanma",
@@ -49,11 +49,11 @@
     "category": "Computer Science",
     "author": {
       "name": "Otabek Ismoilov",
-      "image": "/images/tutorials/authors/suhail.jpeg"
+      "image": "/images/tutorials/authors/ismoilovdev.jpeg"
     },
     "createdAt": "2023-03-07",
     "minutesRead": 5,
-    "href": "/tutorials/developing/upload-playback-videos-on-ipfs-4everland",
+    "href": "/tutorials/article/linux-file-system",
     "theme": {
       "breadcrumb": false,
       "footer": true,
@@ -62,7 +62,7 @@
       "pagination": true
     }
   },
-  "build-decentralized-video-app-with-fvm": {
+  "wasm": {
     "title": "WebAssembly WASM",
     "longTitle": "WebAssembly WASM",
     "description": "WebAssembly WASM",
@@ -70,11 +70,11 @@
     "category": "Computer Science",
     "author": {
       "name": "Otabek Ismoilov",
-      "image": "/images/tutorials/authors/suhail.jpeg"
+      "image": "/images/tutorials/authors/ismoilovdev.jpeg"
     },
     "createdAt": "2023-03-17",
     "minutesRead": 17,
-    "href": "/tutorials/developing/build-decentralized-video-app-with-fvm",
+    "href": "/tutorials/article/wasm",
     "theme": {
       "breadcrumb": false,
       "footer": true,
@@ -83,7 +83,7 @@
       "pagination": true
     }
   }, 
-  "token-gate-videos-using-lit": {
+  "quantum": {
     "title": "#1 Kvant dasturlashga sayohat",
     "longTitle": "#1 Kvant dasturlashga sayohat",
     "description": "#1 Kvant dasturlashga sayohat",
@@ -91,11 +91,11 @@
     "category": "Computer Science",
     "author": {
       "name": "Otabek Ismoilov",
-      "image": "/images/tutorials/authors/suhail.jpeg"
+      "image": "/images/tutorials/authors/ismoilovdev.jpeg"
     },
     "createdAt": "2023-05-01",
     "minutesRead": 16,
-    "href": "/tutorials/developing/token-gate-videos-using-lit",
+    "href": "/tutorials/article/quantum",
     "theme": {
       "breadcrumb": false,
       "footer": true,
