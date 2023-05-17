@@ -35,7 +35,7 @@ const config = {
     ignoreBuildErrors: true,
   },
   images: {
-    domains: ['docs.livepeer.org'],
+    domains: ['cs-uz.vercel.app'],
   },
   sentry: {
     // Use `hidden-source-map` rather than `source-map` as the Webpack `devtool`
