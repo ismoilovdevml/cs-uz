@@ -4,7 +4,7 @@ import { useRouter } from 'next/router';
 
 import React, { useEffect, useState } from 'react';
 
-import tutorials from 'pages/tutorials/developing/_meta.en-US.json';
+import tutorials from 'pages/tutorials/article/_meta.en-US.json';
 
 import { JsonLd, Tutorial } from 'types/tutorial';
 
@@ -56,7 +56,7 @@ export default function Header() {
     },
     publisher: {
       '@type': 'Organization',
-      name: 'Livepeer Docs',
+      name: 'CS-UZ',
     },
   };
 
@@ -88,7 +88,7 @@ export default function Header() {
           <div className="h-7 w-7 relative">
             <Image
               src={tutorial?.author?.image || ''}
-              alt={`Picture of ${tutorial?.author?.name}`}
+              alt={`${tutorial?.author?.name}-ning surati`}
               fill
               className="rounded-full"
             />
@@ -100,7 +100,7 @@ export default function Header() {
             {tutorial?.createdAt}
           </div>
           <div className="text-sm nx-text-gray-400 ml-4">
-            {tutorial?.minutesRead} minutes read
+            {tutorial?.minutesRead} daqiqa o'qildi
           </div>
         </div>
         <div className="relative lg:w-[114%] lg:-ml-14 aspect-[16/9] mb-16 mt-12">
