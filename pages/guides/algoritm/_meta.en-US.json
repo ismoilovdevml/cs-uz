@@ -1,92 +1,92 @@
 {
   "get-started": {
-    "title": "Get Started",
+    "title": "DSA.UZ",
     "icon": "🏁",
-    "description": "Everything you need to know to become a Livepeer Orchestrator",
+    "description": "DSA.UZ - Ma'lumotlar strukturasi va Algoritmlar",
     "href": "/guides/algoritm/get-started"
   },
   "install-go-livepeer": {
-    "title": "Install Go Livepeer",
+    "title": "Arrays",
     "icon": "💾",
-    "description": "How to run the Livepeer Go client",
+    "description": "DSA.UZ - Arrays",
     "href": "/guides/algoritm/install-go-livepeer"
   },
   "connect-to-arbitrum": {
-    "title": "Connect to Arbitrum",
+    "title": "Linked List",
     "icon": "🔗",
-    "description": "Make sure your orchestrator is linked to the network",
+    "description": "DSA.UZ - Linked List",
     "href": "/guides/algoritm/connect-to-arbitrum"
   },
   "configure-reward-calling": {
-    "title": "Configure Reward Calling",
+    "title": "Stack",
     "icon": "🎉",
-    "description": "Earn rewards for doing work on the Livepeer network",
+    "description": "DSA.UZ - Stack",
     "href": "/guides/algoritm/configure-reward-calling"
   },
   "set-session-limits": {
-    "title": "Set Session Limits",
+    "title": "Queue",
     "icon": "🙅‍♂️",
-    "description": "Tune your configuration to account for hardware capabilities",
+    "description": "DSA.UZ - Queue",
     "href": "/guides/algoritm/set-session-limits"
   },
   "set-pricing": {
-    "title": "Set Pricing",
+    "title": "Graph",
     "icon": "💸",
-    "description": "Decide how much to charge",
+    "description": "DSA.UZ - Graph",
     "href": "/guides/algoritm/set-pricing"
   },
   "benchmark-transcoding": {
-    "title": "Benchmark Transcoding",
+    "title": "Tree",
     "icon": "🔬",
-    "description": "Make sure your orchestrator can handle incoming streams",
+    "description": "DSA.UZ - Tree",
     "href": "/guides/algoritm/benchmark-transcoding"
   },
   "assess-capabilities": {
-    "title": "Assess concurrent stream capabilities",
+    "title": "Heap",
     "icon": "🏞",
-    "description": "Understand how your orchestrator will perform",
+    "description": "DSA.UZ - Heap",
     "href": "/guides/algoritm/assess-capabilities"
   },
   "monitor-metrics": {
-    "title": "Monitor Metrics",
+    "title": "Hash Table",
     "icon": "📊",
-    "description": "Understand your performance",
+    "description": "DSA.UZ - Hash Table",
     "href": "/guides/algoritm/monitor-metrics"
   },
   "vote": {
-    "title": "Vote on protocol proposals",
+    "title": "Algorithmic Paradigms",
     "icon": "🗳",
-    "description": "Steer the Livepeer network",
+    "description": "DSA.UZ - Algorithmic Paradigms",
     "href": "/guides/algoritm/vote"
   },
   "dual-mine": {
-    "title": "Dual Mine",
+    "title": "Sorting",
     "icon": "⛏",
-    "description": "Run a Livepeer Orchestrator alongside other mining software",
+    "description": "DSA.UZ - Sorting Algorithms",
     "href": "/guides/algoritm/dual-mine"
   },
   "o-t-split": {
-    "title": "Connect to separate transcoders",
+    "title": "Searching",
     "icon": "",
-    "description": "Build a more performant infrastructure",
+    "description": "DSA.UZ - Searching Algorithms",
     "href": "/guides/algoritm/o-t-split"
   },
   "migrate-to-arbitrum": {
-    "title": "Migrate to Arbitrum",
+    "title": "Graph Algorithms",
     "icon": "🗺",
-    "description": "One-time migration to Layer Two",
+    "description": "DSA.UZ - Graph Algorithms",
     "href": "/guides/algoritm/migrate-to-arbitrum"
   },
   "migrate-from-contract-wallet": {
-    "title": "Migrate to Arbitrum from Contract Wallet",
+    "title": "Greedy Algorithms",
     "icon": "📝",
-    "description": "One-time migration to Layer Two for contract wallets (non-EOA)",
+    "description": "DSA.UZ - Greedy Algorithms",
     "href": "/guides/algoritm/migrate-from-contract-wallet"
   },
   "troubleshoot": {
-    "title": "Troubleshoot",
+    "title": "Dynamic Porgamming",
     "icon": "🧩",
-    "description": "Discover common errors",
+    "description": "DSA.UZ - Dynamic Porgamming",
     "href": "/guides/algoritm/troubleshoot"
   }
 }
