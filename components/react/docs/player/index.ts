@@ -1,4 +1,4 @@
-export * from './CustomControlsPlayer';
-export * from './SimplePlayer';
+// export * from './CustomControlsPlayer';
+// export * from './SimplePlayer';
 export * from './DocsDemoPlayer';
-export * from './ImagePosterPlayer';
+// export * from './ImagePosterPlayer';
