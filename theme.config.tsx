@@ -13,8 +13,6 @@ const EDIT_LINK_WITH_TRANSLATIONS = {
   'en-US': "GitHub-da o'zgartirish →",
 } as const;
 
-import { DocsThemeConfig, useConfig, useTheme } from 'nextra-theme-docs';
-
 const Logo = ({ height, width }: { height: number; width: number }) => {
   const { theme } = useTheme();
   return (
@@ -24,55 +22,11 @@ const Logo = ({ height, width }: { height: number; width: number }) => {
         height={width || 18}
         viewBox="0 0 64 68"
         fill="none"
-        xmlns="http://www.w3.org/2000/svg"
       >
-        <rect
-          x="52"
-          y="40"
-          width="12"
-          height="12"
-          transform="rotate(-90 52 40)"
-          fill={theme === 'light' ? '#131418' : 'white'}
-        />
-        <rect
-          x="26"
-          y="26"
-          width="12"
-          height="12"
-          transform="rotate(-90 26 26)"
-          fill={theme === 'light' ? '#131418' : 'white'}
-        />
-        <rect
-          x="26"
-          y="54"
-          width="12"
-          height="12"
-          transform="rotate(-90 26 54)"
-          fill={theme === 'light' ? '#131418' : 'white'}
-        />
-        <rect
-          y="68"
-          width="12"
-          height="12"
-          transform="rotate(-90 0 68)"
-          fill={theme === 'light' ? '#131418' : 'white'}
-        />
-        <rect
-          y="40"
-          width="12"
-          height="12"
-          transform="rotate(-90 0 40)"
-          fill={theme === 'light' ? '#131418' : 'white'}
-        />
-        <rect
-          y="12"
-          width="12"
-          height="12"
-          transform="rotate(-90 0 12)"
-          fill={theme === 'light' ? '#131418' : 'white'}
-        />
+        <use href="public/logos/logo-dark.svg" />
       </svg>
-      <span style={{ fontWeight: 'bold', fontSize: 18 }}>CS-UZ</span>
+      <img src="/hero.png" alt="Hero" height="50" width="50"/>
+      <span style={{ fontWeight: 'bold', fontSize: 18 }}>Otabek Ismoilov</span>
     </div>
   );
 };
@@ -225,7 +179,7 @@ const config: DocsThemeConfig = {
             ]
           }
         </>
-      );
+      );cd
     },
   },
   i18n: [{ locale: 'en-US', text: 'English' }],
