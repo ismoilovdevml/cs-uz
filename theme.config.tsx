@@ -13,6 +13,8 @@ const EDIT_LINK_WITH_TRANSLATIONS = {
   'en-US': "GitHub-da o'zgartirish →",
 } as const;
 
+import { DocsThemeConfig, useConfig, useTheme } from 'nextra-theme-docs';
+
 const Logo = ({ height, width }: { height: number; width: number }) => {
   const { theme } = useTheme();
   return (
@@ -26,7 +28,7 @@ const Logo = ({ height, width }: { height: number; width: number }) => {
         <use href="public/logos/logo-dark.svg" />
       </svg>
       <img src="/hero.png" alt="Hero" height="50" width="50"/>
-      <span style={{ fontWeight: 'bold', fontSize: 18 }}>Otabek Ismoilov</span>
+      <span style={{ fontWeight: 'bold', fontSize: 18 }}>CS UZ</span>
     </div>
   );
 };
