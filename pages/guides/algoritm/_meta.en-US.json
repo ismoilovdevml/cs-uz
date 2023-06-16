@@ -3,7 +3,7 @@
     "title": "DSA.UZ",
     "icon": "▶️",
     "description": "DSA.UZ - Ma'lumotlar strukturasi va Algoritmlar",
-    "href": "/guides/algoritm/get-started"
+    "href": "/guides/algoritm/dsa-uz"
   },
   "install-go-livepeer": {
     "title": "Arrays",
@@ -45,7 +45,7 @@
     "title": "Heap",
     "icon": "▶️",
     "description": "DSA.UZ - Heap",
-    "href": "/guides/algoritm/assess-capabilities"
+    "href": "/guides/algoritm/get-started"
   },
   "monitor-metrics": {
     "title": "Hash Table",
