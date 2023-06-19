@@ -38,14 +38,14 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.gg/tYEHE4Su',
   },
-  banner: {
-    key: 'docs-launch',
-    text: (
-      <div className="flex justify-center items-center gap-2">
-        CS-UZ-ga Xush Kelibsiz 👋
-      </div>
-    ),
-  },
+  // banner: {
+  //   key: 'docs-launch',
+  //   text: (
+  //     <div className="flex justify-center items-center gap-2">
+  //       CS-UZ-ga Xush Kelibsiz 👋
+  //     </div>
+  //   ),
+  // },
   toc: {
     float: true,
   },
