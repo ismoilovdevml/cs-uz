@@ -83,6 +83,27 @@
       "pagination": true
     }
   },
+  "llvm": {
+    "title": "LLVM Arxitekturasi",
+    "longTitle": "LLVM Arxitekturasi",
+    "description": "LLVM Arxitekturasi",
+    "level": "Hamma uchun",
+    "category": "Computer Science",
+    "author": {
+      "name": "Otabek Ismoilov",
+      "image": "/images/tutorials/authors/ismoilovdev.jpeg"
+    },
+    "createdAt": "2023-03-01",
+    "minutesRead": 15,
+    "href": "/tutorials/article/llvm",
+    "theme": {
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": false,
+      "toc": false,
+      "pagination": true
+    }
+  },
   "blockchain": {
     "title": "Blockchain",
     "longTitle": "Blockchain",
