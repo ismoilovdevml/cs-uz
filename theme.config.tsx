@@ -87,7 +87,7 @@ const config: DocsThemeConfig = {
       frontMatter?.description ||
       "Computer Science bo'yicha bepul ta'lim platformasi bo'lgan CS-UZ ga xush kelibsiz";
     const image = frontMatter?.type
-      ? `https://cs-uz.vercel.ap/api/og?title=${frontMatter?.ogImageText}&category=Developing`
+      ? `https://cs-uz.vercel.app/api/og?title=${frontMatter?.ogImageText}&category=Developing`
       : frontMatter?.image || '/og.jpg';
     const folder = theme === 'light' ? '/light' : '/dark';
 

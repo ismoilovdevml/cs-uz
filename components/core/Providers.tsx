@@ -35,7 +35,7 @@ const { chains, provider } = configureChains(
 );
 
 const { connectors } = getDefaultWallets({
-  appName: 'livepeer.js docs',
+  appName: 'cs-uz docs',
   chains,
 });
 
